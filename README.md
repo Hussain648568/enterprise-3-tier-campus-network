@@ -1,4 +1,4 @@
-# Two-Site Enterprise Campus Network — MegaLab
+# 3 Tier Enterprise Campus Network — MegaLab
 
 A collapsed-core/distribution/access enterprise network built end-to-end in Cisco Packet Tracer, modeling two office sites joined by a shared Layer-3 core with dual-ISP internet redundancy, centralized wireless, VoIP, and layered security.
 
