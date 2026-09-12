@@ -26,7 +26,7 @@ Full write-up of every design decision — addressing plan, routing, redundancy,
 ```
 megalab-enterprise-campus-network/
 ├── README.md
-├── megalab.pkt                     # Open with Cisco Packet Tracer 8.x+
+├── enterprise-3-tier-campus-network.pkt                     # Open with Cisco Packet Tracer 8.x+
 ├── docs/
 │   ├── topology-diagram.png
 │   └── technical-documentation.md  # Full design documentation
@@ -35,11 +35,8 @@ megalab-enterprise-campus-network/
 
 ## Requirements
 
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) 8.x or later to open `megalab.pkt`
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) 8.x or later to open `enterprise-3-tier-campus-network.pkt`
 
-## Credits
-
-Built with [Musab Ahmad](https://www.linkedin.com/in/musabahmad/) — his collaboration and contributions were a core part of the design.
 
 ## License
 
